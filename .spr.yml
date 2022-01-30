@@ -1,0 +1,7 @@
+githubRepoOwner: dstudzinski
+githubRepoName: ejoffe-spr-stacked-test
+githubHost: github.com
+requireChecks: true
+requireApproval: true
+githubRemote: origin
+githubBranch: main
